@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "handpose", "handpose\handpose.vcxproj", "{40DCED49-9326-4835-ABFB-2A0277A4FBD0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grabcalipicture", "grabcalipicture\grabcalipicture.vcxproj", "{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calibration", "calibration\calibration.vcxproj", "{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40DCED49-9326-4835-ABFB-2A0277A4FBD0}.Debug|x64.ActiveCfg = Debug|x64
+		{40DCED49-9326-4835-ABFB-2A0277A4FBD0}.Debug|x64.Build.0 = Debug|x64
+		{40DCED49-9326-4835-ABFB-2A0277A4FBD0}.Debug|x86.ActiveCfg = Debug|Win32
+		{40DCED49-9326-4835-ABFB-2A0277A4FBD0}.Debug|x86.Build.0 = Debug|Win32
+		{40DCED49-9326-4835-ABFB-2A0277A4FBD0}.Release|x64.ActiveCfg = Release|x64
+		{40DCED49-9326-4835-ABFB-2A0277A4FBD0}.Release|x64.Build.0 = Release|x64
+		{40DCED49-9326-4835-ABFB-2A0277A4FBD0}.Release|x86.ActiveCfg = Release|Win32
+		{40DCED49-9326-4835-ABFB-2A0277A4FBD0}.Release|x86.Build.0 = Release|Win32
+		{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}.Debug|x64.ActiveCfg = Debug|x64
+		{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}.Debug|x64.Build.0 = Debug|x64
+		{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}.Debug|x86.ActiveCfg = Debug|Win32
+		{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}.Debug|x86.Build.0 = Debug|Win32
+		{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}.Release|x64.ActiveCfg = Release|x64
+		{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}.Release|x64.Build.0 = Release|x64
+		{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}.Release|x86.ActiveCfg = Release|Win32
+		{24F1E0AC-2DE9-4DF0-B79D-CE86E3199D75}.Release|x86.Build.0 = Release|Win32
+		{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}.Debug|x64.ActiveCfg = Debug|x64
+		{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}.Debug|x64.Build.0 = Debug|x64
+		{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}.Debug|x86.Build.0 = Debug|Win32
+		{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}.Release|x64.ActiveCfg = Release|x64
+		{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}.Release|x64.Build.0 = Release|x64
+		{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}.Release|x86.ActiveCfg = Release|Win32
+		{00982ED7-0EC7-40F8-8E7C-0B1B9CCB89ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69B3171-33C3-4E78-8AB5-DFC27EC6C776}
+	EndGlobalSection
+EndGlobal

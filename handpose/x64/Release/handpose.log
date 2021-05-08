@@ -1,0 +1,18 @@
+﻿  drawmode.cpp
+d:\vs2017pro\handpose\handpose\drawmode.cpp(23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs2017pro\handpose\handpose\drawmode.cpp(24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs2017pro\handpose\handpose\drawmode.cpp(40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+d:\vs2017pro\handpose\handpose\main.cpp(39): warning C4305: “参数”: 从“double”到“_Tp”截断
+          with
+          [
+              _Tp=float
+          ]
+d:\vs2017pro\handpose\handpose\main.cpp(48): warning C4305: “初始化”: 从“double”到“float”截断
+d:\vs2017pro\handpose\handpose\main.cpp(87): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vs2017pro\handpose\handpose\main.cpp(88): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  poseRecog.cpp
+  正在生成代码
+  All 515 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  handpose.vcxproj -> D:\vs2017pro\handpose\x64\Release\handpose.exe
